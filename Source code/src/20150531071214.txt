@@ -1,0 +1,2 @@
+date:2015/4/30 & payment collection:200 & blank tickets:500 & remarks:This is a record for test.
+here is an enter. & 
